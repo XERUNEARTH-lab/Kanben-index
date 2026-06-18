@@ -5,6 +5,7 @@
     "author": "Xerune3",
     "color": "紫",
     "image": "images/charaA.png"
+    "birthday": "11/12"
   },
 
   {
@@ -12,6 +13,7 @@
     "world": "モアルテアカンパニー",
     "author": "Xerune3",
     "color": "黄",
+    "birthday": "8/2"
     "image": "images/charaB.png"
   }
 ]
