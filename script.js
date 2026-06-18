@@ -32,8 +32,6 @@ card.style.backgroundColor =
         <h3>${character.name}</h3>
         <p>世界観: ${character.world}</p>
         <p>作者: ${character.author}</p>
-        <p>色: ${character.color}</p>
-        <p>誕生日: ${character.birthday}</p>
       `;
 
       container.appendChild(card);
