@@ -4,8 +4,8 @@
     "world": "スイカは果物",
     "author": "Xerune3",
     "color": "紫",
-    "birthday": "11/12"
-     "image": "images/chara_A.PNG",
+    "birthday": "11/12",
+     "image": "images/chara_A.PNG"
   },
 
   {
@@ -13,7 +13,7 @@
     "world": "モアルテアカンパニー",
     "author": "Xerune3",
     "color": "黄",
-    "birthday": "08/02"
-    "image": "images/chara_B.PNG",
+    "birthday": "08/02",
+    "image": "images/chara_B.PNG"
   },
 ]
