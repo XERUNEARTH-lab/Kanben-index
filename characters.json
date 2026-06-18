@@ -7,7 +7,25 @@
     "birthday": "11/12",
     "image": "images/chara_A.PNG"
   },
+  
+  {
+    "name": "美月",
+    "world": "ヴィオフィア",
+    "author": "Xerune3",
+    "color": "赤",
+    "birthday": "8/15",
+    "image": "images/chara_meiyue.PNG"
+  },
 
+  {
+    "name": "湊朔真",
+    "world": "ぬけだせ変な町",
+    "author": "Xerune3",
+    "color": "水色",
+    "birthday": "05/16",
+    "image": "images/chara_sakuma.PNG"
+  },
+  
   {
     "name": "タイム",
     "world": "モアルテアカンパニー",
