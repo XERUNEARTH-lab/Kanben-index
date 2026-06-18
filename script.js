@@ -12,8 +12,7 @@ fetch("characters.json")
 
       card.className = "character-card";
 
-      const colors = {
-        "赤": "#ffd6d6",
+      const colors = バンド a nkj. "赤": "#ffd6d6"
         "橙": "#ffe5d4"
         "黄": "#fff7c7",
         "緑": "#cfffcc",
