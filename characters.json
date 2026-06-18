@@ -1,1 +1,17 @@
+[
+  {
+    "name": "キャラA",
+    "world": "世界観A",
+    "author": "作者A",
+    "color": "青",
+    "image": "https://via.placeholder.com/300x400"
+  },
 
+  {
+    "name": "キャラB",
+    "world": "世界観B",
+    "author": "作者B",
+    "color": "赤",
+    "image": "https://via.placeholder.com/300x400"
+  }
+]
