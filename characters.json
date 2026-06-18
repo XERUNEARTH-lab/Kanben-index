@@ -1,17 +1,17 @@
 [
   {
-    "name": "キャラA",
-    "world": "世界観A",
-    "author": "作者A",
-    "color": "青",
-    "image": "https://via.placeholder.com/300x400"
+    "name": "烏頭昴",
+    "world": "スイカは果物",
+    "author": "Xerune3",
+    "color": "紫",
+    "image": "images/charaA.png"
   },
 
   {
-    "name": "キャラB",
-    "world": "世界観B",
-    "author": "作者B",
-    "color": "赤",
-    "image": "https://via.placeholder.com/300x400"
+    "name": "タイム",
+    "world": "モアルテアカンパニー",
+    "author": "Xerune3",
+    "color": "黄",
+    "image": "images/charaB.png"
   }
 ]
