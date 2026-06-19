@@ -45,6 +45,8 @@ fetch("characters.json")
   .then(response => response.json())
   .then(characters => {
 
+console.log("JSON読込成功");
+
     displayCharacters(characters);
 
     const searchBox =
@@ -66,4 +68,7 @@ fetch("characters.json")
 
     });
 
+  })
+  .catch(error => {
+    console.error(error);
   });
