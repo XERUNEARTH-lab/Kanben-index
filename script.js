@@ -49,6 +49,8 @@ fetch("characters.json")
 
     displayCharacters(characters);
 
+ 　　alert("表示成功");
+    
     const searchBox =
       document.getElementById("search");
 
