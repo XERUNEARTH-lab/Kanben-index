@@ -3,8 +3,6 @@
     "name": "烏頭昴",
     "world": "スイカは果物",
     "author": "Xerune3",
-    "color": "紫",
-    "birthday": "11/12",
     "image": "images/chara_A.PNG"
   },
   
@@ -12,8 +10,6 @@
     "name": "美月",
     "world": "ヴィオフィア",
     "author": "Xerune3",
-    "color": "赤",
-    "birthday": "8/15",
     "image": "images/chara_meiyue.PNG"
   },
 
@@ -21,8 +17,6 @@
     "name": "湊朔真",
     "world": "ぬけだせ変な町",
     "author": "Xerune3",
-    "color": "水",
-    "birthday": "05/16",
     "image": "images/chara_sakuma.PNG"
   },
   
@@ -30,8 +24,6 @@
     "name": "タイム",
     "world": "モアルテアカンパニー",
     "author": "Xerune3",
-    "color": "黄",
-    "birthday": "08/02",
     "image": "images/chara_B.PNG"
   }
 ]
