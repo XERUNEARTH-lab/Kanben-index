@@ -1,41 +1,42 @@
-fetch("characters.json")
-  .then(response => response.json())
-  .then(characters => {
+function displayCharacters(characters) {
 
-    const container =
-      document.getElementById("character-list");
+  const container =
+    document.getElementById("character-list");
 
-    characters.forEach(character => {
+  container.innerHTML = "";
 
-      const card =
-        document.createElement("div");
+  characters.forEach(character => {
 
-      card.className = "character-card";
+    const card =
+      document.createElement("div");
 
-      const colors = {
-        "赤": "#ffd6d6",
-        "橙": "#ffe5d4",
-        "黄": "#fff7c7",
-        "緑": "#cfffcc",
-        "水": "#abfffb",
-        "青": "#91baff",
-        "紫": "#d5bdff",
-        "桃": "#ffbde2",
-        "黒": "#dddddd",
-        "白": "#ffffff"
-      };
+    card.className = "character-card";
 
-card.style.backgroundColor =
-  colors[character.color] || "#ffffff";
+    const colors = {
+      "赤": "#ffd6d6",
+      "橙": "#ffe5d4",
+      "黄": "#fff7c7",
+      "緑": "#cfffcc",
+      "水": "#abfffb",
+      "青": "#91baff",
+      "紫": "#d5bdff",
+      "桃": "#ffbde2",
+      "黒": "#dddddd",
+      "白": "#ffffff"
+    };
 
-      card.innerHTML = `
-        <img src="${character.image}">
-        <h3>${character.name}</h3>
-        <p>世界観: ${character.world}</p>
-        <p>作者: ${character.author}</p>
-      `;
+    card.style.backgroundColor =
+      colors[character.color] || "#ffffff";
 
-      container.appendChild(card);
-    });
+    card.innerHTML = `
+      <img src="${character.image}">
+      <h3>${character.name}</h3>
+      <p>${character.world}</p>
+      <p>${character.author}</p>
+    `;
+
+    container.appendChild(card);
 
   });
+
+}
