@@ -1,11 +1,11 @@
 [
   {
-    "name": "烏頭昴",
+    "name": "烏頭 昴",
     "world": "スイカは果物",
     "author": "Xerune3",
     "color": "紫",
     "birthday": "11/12",
-    "image": "images/"
+    "image": "images/suika/subaru.png"
   },
   
   {
@@ -14,16 +14,25 @@
     "author": "Xerune3",
     "color": "赤",
     "birthday": "08/15",
-    "image": "images/vio/"
+    "image": "images/vio/meiyue.png"
   },
 
   {
-    "name": "湊朔真",
+    "name": "湊 朔真",
     "world": "ぬけだせ変な町",
     "author": "Xerune3",
     "color": "水",
     "birthday": "06/16",
-    "image": "images/henmachi/"
+    "image": "images/henmachi/people/sakuma.png"
+  },
+
+  {
+    "name": "鴨羽 青葉",
+    "world": "Check M",
+    "author": "Xerune3",
+    "color": "緑",
+    "birthday": "01/15",
+    "image": "images/chess/human/aoba.png"
   },
   
   {
@@ -32,6 +41,6 @@
     "author": "Xerune3",
     "color": "黄",
     "birthday": "08/02",
-    "image": "images/moartea/glutt/"
+    "image": "images/moartea/glutt/thyme.png"
   }
 ]
