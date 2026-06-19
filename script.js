@@ -40,3 +40,30 @@ function displayCharacters(characters) {
   });
 
 }
+
+fetch("characters.json")
+  .then(response => response.json())
+  .then(characters => {
+
+    displayCharacters(characters);
+
+    const searchBox =
+      document.getElementById("search");
+
+    searchBox.addEventListener("input", () => {
+
+      const keyword =
+        searchBox.value.toLowerCase();
+
+      const filtered =
+        characters.filter(character =>
+          character.name
+            .toLowerCase()
+            .includes(keyword)
+        );
+
+      displayCharacters(filtered);
+
+    });
+
+  });
