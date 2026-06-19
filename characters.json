@@ -14,7 +14,7 @@
     "author": "Xerune3",
     "color": "赤",
     "birthday": "08/15",
-    "image": "images/chara_meiyue.PNG"
+    "image": "images/vio/chara_meiyue.PNG"
   },
 
   {
@@ -23,7 +23,7 @@
     "author": "Xerune3",
     "color": "水",
     "birthday": "06/16",
-    "image": "images/chara_sakuma.PNG"
+    "image": "images/henmachi/chara_sakuma.PNG"
   },
   
   {
@@ -32,6 +32,6 @@
     "author": "Xerune3",
     "color": "黄",
     "birthday": "08/02",
-    "image": "images/chara_B.PNG"
+    "image": "images/moartea/glutt/chara_B.PNG"
   }
 ]
