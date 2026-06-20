@@ -46,26 +46,68 @@ fetch("characters.json")
   .then(response => response.json())
   .then(characters => {
 
-    displayCharacters(characters);
-    
-    const searchBox =
-      document.getElementById("search");
+    const categoryFilter =
+  document.getElementById("category-filter");
 
-    searchBox.addEventListener("input", () => {
+const categories =
+  [...new Set(
+    characters.map(c => c.category)
+  )];
 
-      const keyword =
-        searchBox.value.toLowerCase();
+categories.forEach(category => {
 
-      const filtered =
-        characters.filter(character =>
-          character.name
-            .toLowerCase()
-            .includes(keyword)
-        );
+  const option =
+    document.createElement("option");
 
-      displayCharacters(filtered);
+  option.value = category;
+  option.textContent = category;
+
+  categoryFilter.appendChild(option);
+
+});
+
+    function filterCharacters() {
+
+  const keyword =
+    searchBox.value.toLowerCase();
+
+  const selectedCategory =
+    categoryFilter.value;
+
+  const filtered =
+    characters.filter(character => {
+
+      const matchName =
+        character.name
+          .toLowerCase()
+          .includes(keyword);
+
+      const matchCategory =
+        selectedCategory === "all"
+        || character.category === selectedCategory;
+
+      return matchName && matchCategory;
 
     });
+
+  displayCharacters(filtered);
+
+}
+
+const searchBox =
+  document.getElementById("search");
+
+searchBox.addEventListener(
+  "input",
+  filterCharacters
+);
+
+categoryFilter.addEventListener(
+  "change",
+  filterCharacters
+);
+
+filterCharacters();
 
   })
   .catch(error => {
