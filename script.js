@@ -46,11 +46,7 @@ fetch("characters.json")
   .then(response => response.json())
   .then(characters => {
 
-    alert("JSON成功");
-
     displayCharacters(characters);
-
- 　　alert("表示成功");
     
     const searchBox =
       document.getElementById("search");
