@@ -48,6 +48,53 @@ fetch("characters.json")
     const categoryFilter =
   document.getElementById("category-filter");
 
+    const subcategoryFilter =
+  document.getElementById("subcategory-filter");
+
+    function updateSubcategories() {
+
+  subcategoryFilter.innerHTML =
+    '<option value="all">すべてのサブカテゴリ</option>';
+
+  const selectedCategory =
+    categoryFilter.value;
+
+  let subcategories;
+
+  if (selectedCategory === "all") {
+
+    subcategories =
+      [...new Set(
+        characters.map(c => c.subcategory)
+      )];
+
+  } else {
+
+    subcategories =
+      [...new Set(
+        characters
+          .filter(c =>
+            c.category === selectedCategory
+          )
+          .map(c => c.subcategory)
+      )];
+
+  }
+
+  subcategories.forEach(subcategory => {
+
+    const option =
+      document.createElement("option");
+
+    option.value = subcategory;
+    option.textContent = subcategory;
+
+    subcategoryFilter.appendChild(option);
+
+  });
+
+}
+
 const categories =
   [...new Set(
     characters.map(c => c.category)
