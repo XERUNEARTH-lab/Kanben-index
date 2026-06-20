@@ -1,4 +1,19 @@
 [
+{
+  "name": "美月",
+  "category": "ヴィオフィア",
+  "subcategory": "構成員",
+  "author": "Xerune3",
+  "color": "赤",
+  "age": "??",
+  "birthday": "08/15",
+  "image": "images/01_vio/kousei/meiyue.png",
+  "description": "",
+  "tags": [
+    "金髪"
+  ]
+ },
+
   {
   "name": "烏頭 昴",
   "category": "スイカは果物",
@@ -15,21 +30,6 @@
   ]
  },
   
-  {
-  "name": "美月",
-  "category": "ヴィオフィア",
-  "subcategory": "構成員",
-  "author": "Xerune3",
-  "color": "赤",
-  "age": "??",
-  "birthday": "08/15",
-  "image": "images/01_vio/kousei/meiyue.png",
-  "description": "",
-  "tags": [
-    "金髪"
-  ]
- },
-
   {
   "name": "湊朔真",
   "category": "ぬけだせ変な町",
@@ -54,11 +54,12 @@
   "color": "緑",
   "age": "24",
   "birthday": "01/15",
-  "image": "images/.png",
+  "image": "images/xx_checkm/human/aoba.png",
   "description": "",
   "tags": [
     "緑髪",
-    "一つ結び"
+    "一つ結び",
+    "眼帯"
   ]
  },
 
@@ -70,7 +71,7 @@
   "color": "黄",
   "age": "130",
   "birthday": "08/02",
-  "image": "images/moartea/glutt/thyme.png",
+  "image": "images/xx_moartea/glutt/thyme.png",
   "description": "",
   "tags": [
     "人外",
