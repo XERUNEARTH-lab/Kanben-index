@@ -14,7 +14,149 @@
     "糸目"
   ]
  },
+  
+{
+  "name": "垰 ちづに",
+  "category": "スイカは果物",
+  "subcategory": "罪人",
+  "author": "ねこに",
+  "color": "赤",
+  "age": "18",
+  "birthday": "02/04",
+  "image": "images/03_suika/criminals/chidzu.png",
+  "description": "",
+  "tags": [
+    "高校生"
+  ]
+ },
 
+  {
+  "name": "五穀 楓",
+  "category": "スイカは果物",
+  "subcategory": "罪人",
+  "author": "ルイ",
+  "color": "橙",
+  "age": "17",
+  "birthday": "10/23",
+  "image": "images/03_suika/criminals/kaede.png",
+  "description": "",
+  "tags": [
+    "マフラー",
+    "黒髪",
+    "高校生"
+  ]
+ },
+  
+  {
+  "name": "羊衰 きき",
+  "category": "スイカは果物",
+  "subcategory": "罪人",
+  "author": "こめる",
+  "color": "橙",
+  "age": "23",
+  "birthday": "??",
+  "image": "images/03_suika/criminals/kiki.png",
+  "description": "",
+  "tags": [
+    "編み込み"
+  ]
+ },
+  
+  {
+  "name": "方波 充輝",
+  "category": "スイカは果物",
+  "subcategory": "罪人",
+  "author": "サフラン",
+  "color": "黄",
+  "age": "17",
+  "birthday": "08/15",
+  "image": "images/03_suika/criminals/mitsuki.png",
+  "description": "",
+  "tags": [
+    "高校生",
+    "帽子",
+    "メガネ"
+  ]
+ },
+  
+  {
+  "name": "三上 涼香",
+  "category": "スイカは果物",
+  "subcategory": "罪人",
+  "author": "みな",
+  "color": "黄緑",
+  "age": "20",
+  "birthday": "??",
+  "image": "images/03_suika/criminals/suzuka.png",
+  "description": "",
+  "tags": [
+    "",
+  ]
+ },
+
+  {
+  "name": "レオナ・フィリオ＝ボナッチ",
+  "category": "スイカは果物",
+  "subcategory": "罪人",
+  "author": "元潮",
+  "color": "緑",
+  "age": "26",
+  "birthday": "06/18",
+  "image": "images/03_suika/criminals/reona.png",
+  "description": "",
+  "tags": [
+    "緑髪",
+    "お兄さん"
+  ]
+ },
+  
+  {
+  "name": "楠木 琴音",
+  "category": "スイカは果物",
+  "subcategory": "罪人",
+  "author": "ココねこ",
+  "color": "緑",
+  "age": "27",
+  "birthday": "09/27",
+  "image": "images/03_suika/criminals/kotone.png",
+  "description": "",
+  "tags": [
+    "お姉さん"
+  ]
+ },
+
+  {
+  "name": "大井 薬兎",
+  "category": "スイカは果物",
+  "subcategory": "罪人",
+  "author": "ぽんかき",
+  "color": "水",
+  "age": "32",
+  "birthday": "10/03",
+  "image": "images/03_suika/criminals/yakuto.png",
+  "description": "",
+  "tags": [
+    "メガネ",
+    "銀髪",
+    "お兄さん"
+  ]
+ },
+
+  {
+  "name": "渉 宗一郎",
+  "category": "スイカは果物",
+  "subcategory": "罪人",
+  "author": "ことら",
+  "color": "青",
+  "age": "48",
+  "birthday": "07/18",
+  "image": "images/03_suika/criminals/soichiro.png",
+  "description": "",
+  "tags": [
+    "おじさん"
+  ]
+ },
+  
   {
   "name": "烏頭 昴",
   "category": "スイカは果物",
@@ -27,7 +169,39 @@
   "description": "",
   "tags": [
     "紫髪",
+    "お兄さん",
     "帽子"
+  ]
+ },
+
+{
+  "name": "佐藤 優希",
+  "category": "スイカは果物",
+  "subcategory": "罪人",
+  "author": "オレオピーマン",
+  "color": "紫",
+  "age": "18",
+  "birthday": "01/01",
+  "image": "images/03_suika/criminals/yuuki.png",
+  "description": "",
+  "tags": [
+    "高校生"
+  ]
+ },
+
+{
+  "name": "イリーナ・オルロフ",
+  "category": "スイカは果物",
+  "subcategory": "罪人",
+  "author": "毬藻",
+  "color": "桃",
+  "age": "16",
+  "birthday": "03/13",
+  "image": "images/03_suika/criminals/irina.png",
+  "description": "",
+  "tags": [
+    "高校生",
+    "白衣"
   ]
  },
   
@@ -61,21 +235,6 @@
     "緑髪",
     "一つ結び",
     "眼帯"
-  ]
- },
-
-  {
-  "name": "宿痾",
-  "category": "モアルテアカンパニー",
-  "subcategory": "怠惰部署",
-  "author": "るな",
-  "color": "緑",
-  "age": "19",
-  "birthday": "??",
-  "image": "images/15_moartea/sloth/shukua.png",
-  "description": "",
-  "tags": [
-    "緑髪"
   ]
  },
 
