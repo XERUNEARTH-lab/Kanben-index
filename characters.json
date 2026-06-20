@@ -10,7 +10,8 @@
   "image": "images/01_vio/kousei/meiyue.png",
   "description": "",
   "tags": [
-    "金髪"
+    "金髪",
+    "糸目"
   ]
  },
 
@@ -54,27 +55,12 @@
   "color": "緑",
   "age": "24",
   "birthday": "01/15",
-  "image": "images/xx_checkm/human/aoba.png",
+  "image": "images/28_checkm/human/aoba.png",
   "description": "",
   "tags": [
     "緑髪",
     "一つ結び",
     "眼帯"
-  ]
- },
-
-  {
-  "name": "",
-  "category": "",
-  "subcategory": "",
-  "author": "",
-  "color": "",
-  "age": "",
-  "birthday": "",
-  "image": "images/.png",
-  "description": "",
-  "tags": [
-    "",
   ]
  },
 
@@ -91,7 +77,23 @@
   "tags": [
     "人外",
     "黒髪",
-    "料理人"
+    "四本腕"
   ]
 }
 ]
+
+
+{
+  "name": "",
+  "category": "",
+  "subcategory": "",
+  "author": "",
+  "color": "",
+  "age": "",
+  "birthday": "",
+  "image": "images/.png",
+  "description": "",
+  "tags": [
+    "",
+  ]
+ },
