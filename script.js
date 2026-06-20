@@ -31,7 +31,8 @@ function displayCharacters(characters) {
     card.innerHTML = `
       <img src="${character.image}">
       <h3>${character.name}</h3>
-      <p>${character.world}</p>
+      <p>${character.category}</p>
+      <p>${character.subcategory}</p>
       <p>${character.author}</p>
     `;
 
