@@ -32,7 +32,6 @@ function displayCharacters(characters) {
       <img src="${character.image}">
       <h3>${character.name}</h3>
       <p>${character.category}</p>
-      <p>${character.subcategory}</p>
       <p>${character.author}</p>
     `;
 
