@@ -64,26 +64,6 @@
  },
 
   {
-  "name": "タイム",
-  "category": "モアルテアカンパニー",
-  "subcategory": "暴食部署",
-  "author": "Xerune3",
-  "color": "黄",
-  "age": "130",
-  "birthday": "08/02",
-  "image": "images/xx_moartea/glutt/thyme.png",
-  "description": "",
-  "tags": [
-    "人外",
-    "黒髪",
-    "料理人"
-  ]
-}
-]
-
----------------------
-
-{
   "name": "",
   "category": "",
   "subcategory": "",
@@ -97,3 +77,21 @@
     "",
   ]
  },
+
+  {
+  "name": "タイム",
+  "category": "モアルテアカンパニー",
+  "subcategory": "暴食部署",
+  "author": "Xerune3",
+  "color": "黄",
+  "age": "130",
+  "birthday": "08/02",
+  "image": "images/15_moartea/glutt/thyme.png",
+  "description": "",
+  "tags": [
+    "人外",
+    "黒髪",
+    "料理人"
+  ]
+}
+]
