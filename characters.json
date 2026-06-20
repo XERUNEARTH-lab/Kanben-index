@@ -1,46 +1,98 @@
 [
   {
-    "name": "烏頭 昴",
-    "world": "スイカは果物",
-    "author": "Xerune3",
-    "color": "紫",
-    "birthday": "11/12",
-    "image": "images/suika/criminals/20_uzsbr.png"
-  },
+  "name": "烏頭 昴",
+  "category": "スイカは果物",
+  "subcategory": "罪人",
+  "author": "Xerune3",
+  "color": "紫",
+  "age": "26",
+  "birthday": "11/12",
+  "image": "images/suika/criminals/20_uzsbr.png",
+  "description": "",
+  "tags": [
+    "紫髪",
+    "帽子"
+  ]
+ },
   
   {
-    "name": "美月",
-    "world": "ヴィオフィア",
-    "author": "Xerune3",
-    "color": "赤",
-    "birthday": "08/15",
-    "image": "images/01_vio/kousei/meiyue.png"
-  },
+  "name": "美月",
+  "category": "ヴィオフィア",
+  "subcategory": "構成員",
+  "author": "Xerune3",
+  "color": "赤",
+  "age": "??",
+  "birthday": "08/15",
+  "image": "images/01_vio/kousei/meiyue.png",
+  "description": "",
+  "tags": [
+    "金髪"
+  ]
+ },
 
   {
-    "name": "湊 朔真",
-    "world": "ぬけだせ変な町",
-    "author": "Xerune3",
-    "color": "水",
-    "birthday": "06/16",
-    "image": "images/henmachi/people/sakuma.png"
-  },
+  "name": "湊朔真",
+  "category": "ぬけだせ変な町",
+  "subcategory": "探索者",
+  "author": "Xerune3",
+  "color": "水",
+  "age": "35",
+  "birthday": "05/16",
+  "image": "images/.png",
+  "description": "",
+  "tags": [
+    "茶髪",
+    "帽子"
+  ]
+ },
 
   {
-    "name": "鴨羽 青葉",
-    "world": "Check M",
-    "author": "Xerune3",
-    "color": "緑",
-    "birthday": "01/15",
-    "image": "images/chess/human/aoba.png"
-  },
-  
+  "name": "鴨羽 青葉",
+  "category": "Check M",
+  "subcategory": "人類",
+  "author": "Xerune3",
+  "color": "緑",
+  "age": "24",
+  "birthday": "01/15",
+  "image": "images/.png",
+  "description": "",
+  "tags": [
+    "緑髪",
+    "一つ結び"
+  ]
+ },
+
   {
-    "name": "タイム",
-    "world": "モアルテアカンパニー",
-    "author": "Xerune3",
-    "color": "黄",
-    "birthday": "08/02",
-    "image": "images/moartea/glutt/thyme.png"
-  }
+  "name": "タイム",
+  "category": "モアルテアカンパニー",
+  "subcategory": "暴食部署",
+  "author": "Xerune3",
+  "color": "黄",
+  "age": "130",
+  "birthday": "08/02",
+  "image": "images/moartea/glutt/thyme.png",
+  "description": "",
+  "tags": [
+    "人外",
+    "黒髪",
+    "料理人"
+  ]
+}
 ]
+
+---------------------
+
+{
+  "name": "",
+  "category": "",
+  "subcategory": "",
+  "author": "",
+  "color": "",
+  "age": "",
+  "birthday": "",
+  "image": "images/.png",
+  "description": "",
+  "tags": [
+    "",
+  ]
+ },
