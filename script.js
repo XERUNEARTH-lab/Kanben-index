@@ -59,6 +59,9 @@ fetch("characters.json")
   const selectedCategory =
     categoryFilter.value;
 
+  const selectedSubcategory =
+  subcategoryFilter.value;
+
   let subcategories;
 
   if (selectedCategory === "all") {
@@ -132,7 +135,15 @@ categories.forEach(category => {
         selectedCategory === "all"
         || character.category === selectedCategory;
 
-      return matchName && matchCategory;
+      const matchSubcategory =
+  　　　selectedSubcategory === "all"
+  　　　　|| character.subcategory === selectedSubcategory;
+
+    return (
+  matchName
+  && matchCategory
+  && matchSubcategory
+);
 
     });
 
@@ -150,9 +161,20 @@ searchBox.addEventListener(
 
 categoryFilter.addEventListener(
   "change",
+  () => {
+
+    updateSubcategories();
+
+    filterCharacters();
+
+  }
+);
+    subcategoryFilter.addEventListener(
+  "change",
   filterCharacters
 );
 
+updateSubcategories();
 filterCharacters();
 
   })
