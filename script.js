@@ -56,11 +56,8 @@ fetch("characters.json")
   subcategoryFilter.innerHTML =
     '<option value="all">すべてのサブカテゴリ</option>';
 
-  const selectedCategory =
-    categoryFilter.value;
-
-  const selectedSubcategory =
-  subcategoryFilter.value;
+      const selectedCategory =
+        categoryFilter.value;
 
   let subcategories;
 
