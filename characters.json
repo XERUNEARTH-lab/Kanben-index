@@ -1,5 +1,21 @@
 [
 {
+  "name": "ファルス・グランティカ",
+  "category": "ヴィオフィア",
+  "subcategory": "幹部",
+  "author": "ココねこ",
+  "color": "桃",
+  "age": "??",
+  "birthday": "??",
+  "image": "images/01_vio/kanbu/false.PNG",
+  "description": "",
+  "tags": [
+    "ピンク髪",
+    "帽子"
+  ]
+ },
+  
+{
   "name": "美月",
   "category": "ヴィオフィア",
   "subcategory": "構成員",
