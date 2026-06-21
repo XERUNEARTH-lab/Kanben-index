@@ -16,13 +16,13 @@ function displayCharacters(characters) {
       "赤": "#ffd6d6",
       "橙": "#ffe5d4",
       "黄": "#fff7c7",
-      "黄緑": "#e9ffbf",
-      "緑": "#b5ebb9",
+      "黄緑": "#e6ffcc",
+      "緑": "#c4f5cb",
       "青緑": "#9bebd3",
-      "水": "#abfffb",
-      "青": "#91baff",
+      "水": "#cff5fc",
+      "青": "#c8d1fa",
       "紫": "#d5bdff",
-      "桃": "#ffbde2",
+      "桃": "#ffd9fb",
       "黒": "#dddddd",
       "白": "#ffffff"
     };
