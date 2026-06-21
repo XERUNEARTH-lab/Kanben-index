@@ -1,4 +1,36 @@
 [
+  {
+  "name": "イヴ",
+  "category": "ヴィオフィア",
+  "subcategory": "幹部",
+  "author": "山葵輸送列車",
+  "color": "水",
+  "age": "??",
+  "birthday": "??",
+  "image": "images/01_vio/kanbu/eve.png",
+  "description": "",
+  "tags": [
+    "ツインテ",
+    "ついんて",
+    "オッドアイ"
+  ]
+ },
+  
+  {
+  "name": "エーデルシュタイン・ライ＝パラソムニア",
+  "category": "ヴィオフィア",
+  "subcategory": "幹部",
+  "author": "クラウン",
+  "color": "青",
+  "age": "??",
+  "birthday": "??",
+  "image": "images/01_vio/kanbu/edel.png",
+  "description": "",
+  "tags": [
+    "オッドアイ"
+  ]
+ },
+  
 {
   "name": "ファルス・グランティカ",
   "category": "ヴィオフィア",
