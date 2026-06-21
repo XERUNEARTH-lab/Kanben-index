@@ -23,8 +23,8 @@ function displayCharacters(characters) {
       "青": "#c8d1fa",
       "紫": "#d5bdff",
       "桃": "#ffd9fb",
-      "黒": "#dddddd",
-      "白": "#ffffff"
+      "黒": "#7a7a7a",
+      "白": "#e8e8e8"
     };
 
     card.style.backgroundColor =
