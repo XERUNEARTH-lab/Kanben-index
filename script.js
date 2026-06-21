@@ -18,6 +18,7 @@ function displayCharacters(characters) {
       "黄": "#fff7c7",
       "黄緑": "#e9ffbf",
       "緑": "#b5ebb9",
+      "青緑": "#9bebd3",
       "水": "#abfffb",
       "青": "#91baff",
       "紫": "#d5bdff",
