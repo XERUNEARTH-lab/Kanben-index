@@ -115,7 +115,7 @@ categories.forEach(category => {
 
 });
 
-    function filterCharacters() {
+  function filterCharacters() {
 
   const keyword =
     searchBox.value.toLowerCase();
@@ -134,20 +134,20 @@ categories.forEach(category => {
       const matchCategory =
         selectedCategory === "all"
         || character.category === selectedCategory;
-
       const matchSubcategory =
-  　　　selectedSubcategory === "all"
-  　　　　|| character.subcategory === selectedSubcategory;
-
-    return (
-  matchName
-  && matchCategory
-  && matchSubcategory
-);
+        selectedSubcategory === "all"
+        || character.subcategory === selectedSubcategory;
+      
+      return (
+        matchName
+        && matchCategory
+        && matchSubcategory
+      );
 
     });
 
-  alert(filtered.length)
+  alert(filtered.length);
+
   displayCharacters(filtered);
 
 }
