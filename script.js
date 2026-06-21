@@ -147,6 +147,7 @@ categories.forEach(category => {
 
     });
 
+  alert(filtered.length)
   displayCharacters(filtered);
 
 }
