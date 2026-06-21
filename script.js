@@ -122,7 +122,10 @@ categories.forEach(category => {
 
   const selectedCategory =
     categoryFilter.value;
-
+    
+  const selectedSubcategory =
+  subcategoryFilter.value;
+    
   const filtered =
     characters.filter(character => {
 
