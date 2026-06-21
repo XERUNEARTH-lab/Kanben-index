@@ -14,6 +14,23 @@
     "糸目"
   ]
  },
+
+{
+  "name": "ベーゼ・フレーミヒ",
+  "category": "イフォヴル",
+  "subcategory": "構成員",
+  "author": "Xerune3",
+  "color": "紫",
+  "age": "250",
+  "birthday": "02/27",
+  "image": "images/02_ifo/kousei/bese.png",
+  "description": "",
+  "tags": [
+    "悪魔",
+    "金髪",
+    "眼帯"
+  ]
+ },
   
 {
   "name": "垰 ちづに",
@@ -206,6 +223,24 @@
  },
   
   {
+  "name": "草薙 凪",
+  "category": "HereDitas_",
+  "subcategory": "2級隊員",
+  "author": "Xerune3",
+  "color": "緑",
+  "age": "20",
+  "birthday": "11/30",
+  "image": "images/04_HD/2/nagi.png",
+  "description": "",
+  "tags": [
+    "緑髪",
+    "一つ結び",
+    "メカクレ",
+    "目隠れ"
+  ]
+ },
+  
+  {
   "name": "湊朔真",
   "category": "ぬけだせ変な町",
   "subcategory": "探索者",
@@ -220,7 +255,120 @@
     "帽子"
   ]
  },
+  
+{
+  "name": "える",
+  "category": "ヘンケーン町",
+  "subcategory": "オイカンベーン区",
+  "author": "Xerune3",
+  "color": "青",
+  "age": "??",
+  "birthday": "07/20",
+  "image": "images/11_henkeen/oikanbeen/eru.png",
+  "description": "",
+  "tags": [
+    "人外",
+    "帽子",
+    "茶髪青目"
+  ]
+ },
 
+  {
+  "name": "ハルキ",
+  "category": "EBS",
+  "subcategory": "エリートパス",
+  "author": "Xerune3",
+  "color": "水",
+  "age": "26",
+  "birthday": "07/09",
+  "image": "images/13_EBS/elite/haruki.png",
+  "description": "",
+  "tags": [
+    ""
+  ]
+ },
+  
+  {
+  "name": "レナート・クロニエミ",
+  "category": "ラウツァイト時空管理局",
+  "subcategory": "時空保安部署",
+  "author": "Xerune3",
+  "color": "橙",
+  "age": "25",
+  "birthday": "??",
+  "image": "images/14_lauzait/hoan/renat.png",
+  "description": "",
+  "tags": [
+    "帽子",
+    "メカクレ",
+    "目隠れ"
+  ]
+ },
+  
+{
+  "name": "ルイス・バレンタイン",
+  "category": "モアルテアカンパニー",
+  "subcategory": "色欲大罪部署",
+  "author": "Xerune3",
+  "color": "桃",
+  "age": "33",
+  "birthday": "10/10",
+  "image": "images/15_moartea/lust/louis.png",
+  "description": "",
+  "tags": [
+    "教育係"
+  ]
+ },
+  
+  {
+  "name": "徒篠 沙介",
+  "category": "モアルテアカンパニー",
+  "subcategory": "強欲大罪部署",
+  "author": "Xerune3",
+  "color": "白",
+  "age": "31",
+  "birthday": "10/27",
+  "image": "images/15_moartea/greed/sasuke.png",
+  "description": "",
+  "tags": [
+    "白髪",
+    "関西人"
+  ]
+ },
+  
+  {
+  "name": "タイム",
+  "category": "モアルテアカンパニー",
+  "subcategory": "暴食大罪部署",
+  "author": "Xerune3",
+  "color": "黄",
+  "age": "130",
+  "birthday": "08/02",
+  "image": "images/15_moartea/glutt/thyme.png",
+  "description": "",
+  "tags": [
+    "人外",
+    "黒髪",
+    "四本腕"
+  ]
+},
+  
+  {
+  "name": "七五三木 イツキ",
+  "category": "アルテシティ",
+  "subcategory": "観光案内所",
+  "author": "Xerune3",
+  "color": "黄緑",
+  "age": "32",
+  "birthday": "??",
+  "image": "images/17_artecity/npc/itsuki.png",
+  "description": "",
+  "tags": [
+    "一つ結び",
+    "オッドアイ"
+  ]
+ },
+  
   {
   "name": "鴨羽 青葉",
   "category": "Check M",
@@ -236,22 +384,5 @@
     "一つ結び",
     "眼帯"
   ]
- },
-
-  {
-  "name": "タイム",
-  "category": "モアルテアカンパニー",
-  "subcategory": "暴食部署",
-  "author": "Xerune3",
-  "color": "黄",
-  "age": "130",
-  "birthday": "08/02",
-  "image": "images/15_moartea/glutt/thyme.png",
-  "description": "",
-  "tags": [
-    "人外",
-    "黒髪",
-    "四本腕"
-  ]
-}
+ }
 ]
