@@ -11,7 +11,7 @@
   "description": "",
   "tags": [
     "ツインテ",
-    "ついんて",
+    "人外",
     "オッドアイ"
   ]
  },
@@ -27,7 +27,8 @@
   "image": "images/01_vio/kanbu/edel.png",
   "description": "",
   "tags": [
-    "オッドアイ"
+    "オッドアイ",
+    "人外"
   ]
  },
   
@@ -43,7 +44,8 @@
   "description": "",
   "tags": [
     "ピンク髪",
-    "帽子"
+    "帽子",
+    "インナーカラー"
   ]
  },
   
@@ -58,7 +60,9 @@
   "image": "images/01_vio/kanbu/loire.png",
   "description": "",
   "tags": [
-    "しっぽ"
+    "しっぽ",
+    "金髪",
+    "人外"
    ]
  },
   
@@ -91,7 +95,8 @@
   "description": "",
   "tags": [
     "帽子",
-    "緑髪"
+    "緑髪",
+    "インナーカラー"
   ]
  },
 
@@ -158,9 +163,90 @@
  },
 
   {
+  "name": "シトリン・ブラダマンテ",
+  "category": "ヴィオフィア",
+  "subcategory": "準構成員",
+  "author": "るな",
+  "color": "橙",
+  "age": "25",
+  "birthday": "??",
+  "image": "images/01_vio/jun/sitorin.png",
+  "description": "",
+  "tags": [
+    "インナーカラー",
+  ]
+ },
+  
+{
+  "name": "ナガミ",
+  "category": "ヴィオフィア",
+  "subcategory": "準構成員",
+  "author": "みな",
+  "color": "橙",
+  "age": "14",
+  "birthday": "09/07",
+  "image": "images/01_vio/jun/nagami.png",
+  "description": "",
+  "tags": [
+    "黒髪",
+    "ショタ"
+  ]
+ },
+  
+  {
+  "name": "ビット",
+  "category": "ヴィオフィア",
+  "subcategory": "準構成員",
+  "author": "オレオピーマン",
+  "color": "水",
+  "age": "25",
+  "birthday": "",
+  "image": "images/01_vio/jun/bit.png",
+  "description": "",
+  "tags": [
+    "水色髪",
+    "水色髪ピンク目",
+    "人外"
+  ]
+ },
+
+  {
+  "name": "プリッシュ",
+  "category": "ヴィオフィア",
+  "subcategory": "準構成員",
+  "author": "こめる",
+  "color": "黄緑",
+  "age": "??",
+  "birthday": "10/27",
+  "image": "images/01_vio/jun/plish.png",
+  "description": "",
+  "tags": [
+    "ロリ",
+    "少女",
+    "茶髪"
+  ]
+ },
+
+{
+  "name": "来月 病",
+  "category": "ヴィオフィア",
+  "subcategory": "下っ端(雑用)",
+  "author": "星屑",
+  "color": "青",
+  "age": "20",
+  "birthday": "12/04",
+  "image": "images/01_vio/sita/yamai.png",
+  "description": "",
+  "tags": [
+    "メイド",
+    "糸目"
+  ]
+ },
+  
+  {
   "name": "遊佐",
   "category": "ヴィオフィア",
-  "subcategory": "下っ端",
+  "subcategory": "下っ端(雑用)",
   "author": "毬藻",
   "color": "桃",
   "age": "??",
@@ -461,7 +547,8 @@
   "tags": [
     "帽子",
     "メカクレ",
-    "目隠れ"
+    "目隠れ",
+    "金髪"
   ]
  },
   
