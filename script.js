@@ -128,11 +128,35 @@ categories.forEach(category => {
   const filtered =
     characters.filter(character => {
 
-      const matchName =
-        character.name
-          .toLowerCase()
-          .includes(keyword);
+const matchKeyword =
 
+  character.name
+    .toLowerCase()
+    .includes(keyword)
+
+  ||
+
+  character.author
+    .toLowerCase()
+    .includes(keyword)
+
+  ||
+
+  character.category
+    .toLowerCase()
+    .includes(keyword)
+
+  ||
+
+  character.subcategory
+    .toLowerCase()
+    .includes(keyword)
+
+  ||
+
+  character.tags.some(tag =>
+    tag.toLowerCase().includes(keyword)
+  );
       const matchCategory =
         selectedCategory === "all"
         || character.category === selectedCategory;
@@ -141,14 +165,12 @@ categories.forEach(category => {
         || character.subcategory === selectedSubcategory;
       
       return (
-        matchName
+       matchKeyword
         && matchCategory
         && matchSubcategory
       );
 
     });
-
-  alert(filtered.length);
 
   displayCharacters(filtered);
 
