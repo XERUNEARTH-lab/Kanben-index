@@ -63,13 +63,7 @@ fetch("characters.json")
 
   let subcategories;
 
-  if (selectedCategory === "all") {
-
-    subcategories =
-      [...new Set(
-        characters.map(c => c.subcategory)
-      )];
-
+  subcategoryFilter.disabled = true;
   } else {
 
     subcategories =
