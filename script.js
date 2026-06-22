@@ -53,29 +53,35 @@ fetch("characters.json")
     const subcategoryFilter =
   document.getElementById("subcategory-filter");
 
-    function updateSubcategories() {
+function updateSubcategories() {
+
+  const selectedCategory =
+    categoryFilter.value;
+
+  if (selectedCategory === "all") {
+
+    subcategoryFilter.disabled = true;
+
+    subcategoryFilter.innerHTML =
+      '<option value="all">カテゴリを選択してください</option>';
+
+    return;
+
+  }
+
+  subcategoryFilter.disabled = false;
 
   subcategoryFilter.innerHTML =
     '<option value="all">すべてのサブカテゴリ</option>';
 
-      const selectedCategory =
-        categoryFilter.value;
-
-  let subcategories;
-
-  subcategoryFilter.disabled = true;
-  } else {
-
-    subcategories =
-      [...new Set(
-        characters
-          .filter(c =>
-            c.category === selectedCategory
-          )
-          .map(c => c.subcategory)
-      )];
-
-  }
+  const subcategories =
+    [...new Set(
+      characters
+        .filter(c =>
+          c.category === selectedCategory
+        )
+        .map(c => c.subcategory)
+    )];
 
   subcategories.forEach(subcategory => {
 
