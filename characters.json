@@ -62,6 +62,84 @@
    ]
  },
   
+  {
+  "name": "ジャック",
+  "category": "ヴィオフィア",
+  "subcategory": "構成員",
+  "author": "ゴマ",
+  "color": "赤",
+  "age": "27",
+  "birthday": "??",
+  "image": "images/01_vio/kousei/jack.png",
+  "description": "",
+  "tags": [
+    "帽子",
+    "白髪",
+    "糸目"
+  ]
+ },
+
+  {
+  "name": "ソフィー",
+  "category": "ヴィオフィア",
+  "subcategory": "構成員",
+  "author": "ことら",
+  "color": "緑",
+  "age": "30",
+  "birthday": "??",
+  "image": "images/01_vio/kousei/sofie.png",
+  "description": "",
+  "tags": [
+    "帽子"
+  ]
+ },
+
+  {
+  "name": "レイ",
+  "category": "ヴィオフィア",
+  "subcategory": "構成員",
+  "author": "ねこに",
+  "color": "水",
+  "age": "",
+  "birthday": "01/05",
+  "image": "images/01_vio/kousei/rei.png",
+  "description": "",
+  "tags": [
+    "フード"
+  ]
+ },
+
+  {
+  "name": "喜ヶ楽 スウ",
+  "category": "ヴィオフィア",
+  "subcategory": "構成員",
+  "author": "元潮",
+  "color": "水",
+  "age": "27",
+  "birthday": "03/14",
+  "image": "images/.png",
+  "description": "",
+  "tags": [
+    "水色髪",
+    "詐欺師"
+  ]
+ },
+  
+{
+  "name": "神 一嘉",
+  "category": "ヴィオフィア",
+  "subcategory": "構成員",
+  "author": "ルイ",
+  "color": "青",
+  "age": "23",
+  "birthday": "??",
+  "image": "images/01_vio/kousei/ichika.png",
+  "description": "",
+  "tags": [
+    "眼帯"
+  ]
+ },
+  
 {
   "name": "美月",
   "category": "ヴィオフィア",
