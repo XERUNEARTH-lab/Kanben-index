@@ -156,23 +156,6 @@
   ]
  },
 
-{
-  "name": "ベーゼ・フレーミヒ",
-  "category": "イフォヴル",
-  "subcategory": "構成員",
-  "author": "Xerune3",
-  "color": "紫",
-  "age": "250",
-  "birthday": "02/27",
-  "image": "images/02_ifo/kousei/bese.png",
-  "description": "",
-  "tags": [
-    "悪魔",
-    "金髪",
-    "眼帯"
-  ]
- },
-  
   {
   "name": "遊佐",
   "category": "ヴィオフィア",
@@ -186,6 +169,23 @@
   "tags": [
     "オッドアイ",
     "ピンク髪"
+  ]
+ },
+  
+  {
+  "name": "ベーゼ・フレーミヒ",
+  "category": "イフォヴル",
+  "subcategory": "構成員",
+  "author": "Xerune3",
+  "color": "紫",
+  "age": "250",
+  "birthday": "02/27",
+  "image": "images/02_ifo/kousei/bese.png",
+  "description": "",
+  "tags": [
+    "悪魔",
+    "金髪",
+    "眼帯"
   ]
  },
   
