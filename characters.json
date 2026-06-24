@@ -258,6 +258,78 @@
     "ピンク髪"
   ]
  },
+
+  {
+  "name": "ヴェティリア",
+  "category": "イフォヴル",
+  "subcategory": "幹部",
+  "author": "ココねこ",
+  "color": "黒",
+  "age": "??",
+  "birthday": "??",
+  "image": "images/02_ifo/kanbu/veti.png",
+  "fullImage": "images/.png"
+  "description": "",
+  "tags": [
+    "人外",
+    "拘束",
+    "金髪"
+  ]
+ },
+
+
+  {
+  "name": "終気樂 夣",
+  "category": "イフォヴル",
+  "subcategory": "構成員",
+  "author": "星屑",
+  "color": "黄",
+  "age": "24",
+  "birthday": "08/02",
+  "image": "images/02_ifo/kouaei/yume.png",
+  "fullImage": "images/.png"
+  "description": "",
+  "tags": [
+    "人外",
+    "白髪"
+  ]
+ },
+
+  {
+  "name": "一颯",
+  "category": "イフォヴル",
+  "subcategory": "構成員",
+  "author": "ゴマ",
+  "color": "赤",
+  "age": "21",
+  "birthday": "??",
+  "image": "images/02_ifo/kousei/ibuki.png",
+  "fullImage": "images/.png"
+  "description": "",
+  "tags": [
+    "インナーカラー",
+    "巫女",
+    "真っ黒目",
+    "黒目"
+  ]
+ },
+
+  {
+  "name": "ぽぽ",
+  "category": "イフォヴル",
+  "subcategory": "構成員",
+  "author": "こめる",
+  "color": "白",
+  "age": "6",
+  "birthday": "10/06",
+  "image": "images/02_ifo/kousei/popo.png",
+  "fullImage": "images/.png"
+  "description": "",
+  "tags": [
+    "人外",
+    "儚い"
+  ]
+ },
   
   {
   "name": "ベーゼ・フレーミヒ",
@@ -270,6 +342,7 @@
   "image": "images/02_ifo/kousei/bese.png",
   "description": "",
   "tags": [
+    "人外",
     "悪魔",
     "金髪",
     "眼帯"
