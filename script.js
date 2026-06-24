@@ -194,7 +194,7 @@ function showCharacterDetail(character) {
     <h2>${character.name}</h2>
 
     <img
-      src="${character.fullImage}"
+      src="${character.image}"
       class="detail-image"
     >
 
