@@ -24,7 +24,7 @@ function displayCharacters(characters) {
       "紫": "#ddcafa",
       "桃": "#ffd9fb",
       "黒": "#7a7a7a",
-      "白": "#e8e8e8"
+      "白": "#ffffff"
     };
 
     card.style.backgroundColor =
