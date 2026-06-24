@@ -287,7 +287,7 @@
   "age": "24",
   "birthday": "08/02",
   "image": "images/02_ifo/kouaei/yume.png",
-  "fullImage": "images/.png"
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "人外",
@@ -304,7 +304,7 @@
   "age": "21",
   "birthday": "??",
   "image": "images/02_ifo/kousei/ibuki.png",
-  "fullImage": "images/.png"
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "インナーカラー",
@@ -323,7 +323,7 @@
   "age": "6",
   "birthday": "10/06",
   "image": "images/02_ifo/kousei/popo.png",
-  "fullImage": "images/.png"
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "人外",
