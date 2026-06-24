@@ -8,6 +8,7 @@
   "age": "??",
   "birthday": "??",
   "image": "images/01_vio/kanbu/eve.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "ツインテ",
@@ -25,6 +26,7 @@
   "age": "??",
   "birthday": "??",
   "image": "images/01_vio/kanbu/edel.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "オッドアイ",
@@ -41,6 +43,7 @@
   "age": "??",
   "birthday": "??",
   "image": "images/01_vio/kanbu/false.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "ピンク髪",
@@ -58,6 +61,7 @@
   "age": "25",
   "birthday": "02/14",
   "image": "images/01_vio/kanbu/loire.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "しっぽ",
@@ -75,6 +79,7 @@
   "age": "27",
   "birthday": "??",
   "image": "images/01_vio/kousei/jack.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "帽子",
@@ -92,6 +97,7 @@
   "age": "30",
   "birthday": "??",
   "image": "images/01_vio/kousei/sofie.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "帽子",
@@ -109,6 +115,7 @@
   "age": "",
   "birthday": "01/05",
   "image": "images/01_vio/kousei/rei.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "フード"
@@ -124,6 +131,7 @@
   "age": "27",
   "birthday": "03/14",
   "image": "images/01_vio/kousei/sue.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "水色髪",
@@ -140,6 +148,7 @@
   "age": "23",
   "birthday": "??",
   "image": "images/01_vio/kousei/ichika.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "眼帯"
@@ -155,6 +164,7 @@
   "age": "??",
   "birthday": "08/15",
   "image": "images/01_vio/kousei/meiyue.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "金髪",
@@ -171,6 +181,7 @@
   "age": "25",
   "birthday": "??",
   "image": "images/01_vio/jun/sitorin.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "インナーカラー"
@@ -186,6 +197,7 @@
   "age": "14",
   "birthday": "09/07",
   "image": "images/01_vio/jun/nagami.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "黒髪",
@@ -202,6 +214,7 @@
   "age": "25",
   "birthday": "",
   "image": "images/01_vio/jun/bit.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "水色髪",
@@ -219,6 +232,7 @@
   "age": "??",
   "birthday": "10/27",
   "image": "images/01_vio/jun/plish.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "ロリ",
@@ -236,6 +250,7 @@
   "age": "20",
   "birthday": "12/04",
   "image": "images/01_vio/sita/yamai.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "メイド",
@@ -252,6 +267,7 @@
   "age": "??",
   "birthday": "09/07",
   "image": "images/01_vio/sita/yuza.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "オッドアイ",
@@ -340,6 +356,7 @@
   "age": "250",
   "birthday": "02/27",
   "image": "images/02_ifo/kousei/bese.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "人外",
@@ -358,6 +375,7 @@
   "age": "18",
   "birthday": "02/04",
   "image": "images/03_suika/criminals/chidzu.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "高校生"
@@ -373,6 +391,7 @@
   "age": "17",
   "birthday": "10/23",
   "image": "images/03_suika/criminals/kaede.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "マフラー",
@@ -390,6 +409,7 @@
   "age": "23",
   "birthday": "??",
   "image": "images/03_suika/criminals/kiki.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "編み込み"
@@ -405,6 +425,7 @@
   "age": "17",
   "birthday": "08/15",
   "image": "images/03_suika/criminals/mitsu.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "高校生",
@@ -422,6 +443,7 @@
   "age": "20",
   "birthday": "??",
   "image": "images/03_suika/criminals/suzuka.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     ""
@@ -437,6 +459,7 @@
   "age": "26",
   "birthday": "06/18",
   "image": "images/03_suika/criminals/reona.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "緑髪",
@@ -454,6 +477,7 @@
   "age": "27",
   "birthday": "09/27",
   "image": "images/03_suika/criminals/kotone.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "お姉さん"
@@ -469,6 +493,7 @@
   "age": "32",
   "birthday": "10/03",
   "image": "images/03_suika/criminals/yakuto.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "メガネ",
@@ -486,6 +511,7 @@
   "age": "48",
   "birthday": "07/18",
   "image": "images/03_suika/criminals/soichiro.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "おじさん"
@@ -519,6 +545,7 @@
   "age": "18",
   "birthday": "01/01",
   "image": "images/03_suika/criminals/yuuki.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "高校生"
@@ -534,6 +561,7 @@
   "age": "16",
   "birthday": "03/13",
   "image": "images/03_suika/criminals/irina.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "高校生",
@@ -551,6 +579,7 @@
   "age": "20",
   "birthday": "11/30",
   "image": "images/04_HD/2/nagi.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "緑髪",
@@ -569,6 +598,7 @@
   "age": "35",
   "birthday": "05/16",
   "image": "images/06_henmachi/explorer/sakuma.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "茶髪",
@@ -585,6 +615,7 @@
   "age": "??",
   "birthday": "07/20",
   "image": "images/11_henkeen/oikanbeen/eru.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "人外",
@@ -602,6 +633,7 @@
   "age": "26",
   "birthday": "07/09",
   "image": "images/13_EBS/elite/haruki.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     ""
@@ -617,6 +649,7 @@
   "age": "25",
   "birthday": "??",
   "image": "images/14_lauzait/hoan/renat.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "帽子",
@@ -635,6 +668,7 @@
   "age": "33",
   "birthday": "10/10",
   "image": "images/15_moartea/lust/louis.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "教育係"
@@ -650,6 +684,7 @@
   "age": "31",
   "birthday": "10/27",
   "image": "images/15_moartea/greed/sasuke.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "白髪",
@@ -666,6 +701,7 @@
   "age": "130",
   "birthday": "08/02",
   "image": "images/15_moartea/glutt/thyme.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "人外",
@@ -683,6 +719,7 @@
   "age": "32",
   "birthday": "??",
   "image": "images/17_artecity/npc/itsuki.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "一つ結び",
@@ -699,6 +736,7 @@
   "age": "24",
   "birthday": "01/15",
   "image": "images/28_checkm/human/aoba.png",
+  "fullImage": "images/.png",
   "description": "",
   "tags": [
     "緑髪",
