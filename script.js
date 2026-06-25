@@ -40,6 +40,9 @@ function displayCharacters(characters) {
     card.addEventListener(
   "click",
   () => {
+
+    alert(character.name);
+    
     showCharacterDetail(character);
   }
 );
