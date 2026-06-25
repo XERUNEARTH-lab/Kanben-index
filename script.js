@@ -1,3 +1,9 @@
+function showCharacterDetail(character) {
+
+  alert("詳細関数開始");
+
+}
+
 function displayCharacters(characters) {
 
   const container =
@@ -185,10 +191,6 @@ const matchKeyword =
   displayCharacters(filtered);
 
 }
-
-function showCharacterDetail(character) {
-
-  alert("詳細関数開始");
 
   const detail =
     document.getElementById(
