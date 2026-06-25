@@ -188,6 +188,8 @@ const matchKeyword =
 
 function showCharacterDetail(character) {
 
+  alert("詳細関数開始");
+
   const detail =
     document.getElementById(
       "character-detail"
