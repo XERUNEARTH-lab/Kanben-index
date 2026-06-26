@@ -2,6 +2,28 @@ function showCharacterDetail(character) {
 
   alert("詳細関数開始");
 
+const detail =
+    document.getElementById(
+      "character-detail"
+    );
+
+  detail.innerHTML = `
+    <h2>${character.name}</h2>
+
+    <img
+      src="${character.image}"
+      class="detail-image"
+    >
+
+    <p>作者: ${character.author}</p>
+
+    <p>年齢: ${character.age}</p>
+
+    <p>誕生日: ${character.birthday}</p>
+
+    <p>${character.description}</p>
+  `;
+
 }
 
 function displayCharacters(characters) {
@@ -190,29 +212,6 @@ const matchKeyword =
 
   displayCharacters(filtered);
 
-}
-
-  const detail =
-    document.getElementById(
-      "character-detail"
-    );
-
-  detail.innerHTML = `
-    <h2>${character.name}</h2>
-
-    <img
-      src="${character.image}"
-      class="detail-image"
-    >
-
-    <p>作者: ${character.author}</p>
-
-    <p>年齢: ${character.age}</p>
-
-    <p>誕生日: ${character.birthday}</p>
-
-    <p>${character.description}</p>
-  `;
 }
     
 const searchBox =
